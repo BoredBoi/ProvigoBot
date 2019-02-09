@@ -1,0 +1,7 @@
+c:\users\utilisateur\documents\visual studio 2017\Projects\ProvigoBot(Host)\ProvigoBot(Host)\bin\Debug\netcoreapp1.1\ProvigoBot(Host).deps.json
+c:\users\utilisateur\documents\visual studio 2017\Projects\ProvigoBot(Host)\ProvigoBot(Host)\bin\Debug\netcoreapp1.1\ProvigoBot(Host).dll
+c:\users\utilisateur\documents\visual studio 2017\Projects\ProvigoBot(Host)\ProvigoBot(Host)\bin\Debug\netcoreapp1.1\ProvigoBot(Host).pdb
+c:\users\utilisateur\documents\visual studio 2017\Projects\ProvigoBot(Host)\ProvigoBot(Host)\obj\Debug\netcoreapp1.1\ProvigoBot(Host).csprojResolveAssemblyReference.cache
+c:\users\utilisateur\documents\visual studio 2017\Projects\ProvigoBot(Host)\ProvigoBot(Host)\obj\Debug\netcoreapp1.1\ProvigoBot(Host).AssemblyInfo.cs
+c:\users\utilisateur\documents\visual studio 2017\Projects\ProvigoBot(Host)\ProvigoBot(Host)\obj\Debug\netcoreapp1.1\ProvigoBot(Host).dll
+c:\users\utilisateur\documents\visual studio 2017\Projects\ProvigoBot(Host)\ProvigoBot(Host)\obj\Debug\netcoreapp1.1\ProvigoBot(Host).pdb
