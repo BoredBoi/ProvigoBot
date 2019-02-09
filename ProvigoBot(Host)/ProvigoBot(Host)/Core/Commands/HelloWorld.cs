@@ -105,7 +105,7 @@ namespace ProvigoBot.Core.Commands
         [Command("CheckPrice"), Summary("Check of the price of provigo products")]
         public async Task CheckPrice([Remainder]string Input2 = "")
         {
-            var user = Context.User.Username;-
+            var user = Context.User.Username;
             string Url1 = "";
 
             if (Input2 == "Mushrooms")
